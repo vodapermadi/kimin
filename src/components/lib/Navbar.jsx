@@ -13,7 +13,6 @@ const Navbar = () => {
                 <Link href={'/'}>About Me</Link>
                 <Link href={'/skill'}>Skills</Link>
                 <Link href={'/project'}>Project</Link>
-                <Link href={'/contact'}>Contact Me</Link>
             </div>
             <div className=''>
                 <button className='bg-indigo-600 p-3 font-semibold text-white rounded text-sm'>Resume</button>
