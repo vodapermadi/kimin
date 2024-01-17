@@ -50,7 +50,7 @@ const SkillPage = () => {
                     </div>
                 </div>
             </div>
-            <div className='w-full flex flex-col justify-center items-center mt-4'>
+            <div className='w-full flex flex-col justify-center items-center my-4 '>
                 <div className='w-5/6 mt-6 text-center'>
                     <h1 className='font-semibold text-2xl'>Tools</h1>
                 </div>
